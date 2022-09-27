@@ -6,17 +6,17 @@ WebdriverIO is a progressive automation framework built to automate modern web a
 
 It is designed to be:
 
-   - ### Extendable #### - Adding helper functions, or more complicated sets and combinations of existing commands is simple and really useful
-   - ### Compatible - WebdriverIO can be run on the WebDriver Protocol for true cross-browser testing as well as Chrome DevTools Protocol for Chromium based automation using Puppeteer.
-   - ### Feature Rich - The huge variety of built-in and community plugins allows you to easily integrate and extend your setup to fulfill your requirements.
+   - Extendable - Adding helper functions, or more complicated sets and combinations of existing commands is simple and really useful
+   - Compatible - WebdriverIO can be run on the WebDriver Protocol for true cross-browser testing as well as Chrome DevTools Protocol for Chromium based automation using Puppeteer.
+   - Feature Rich - The huge variety of built-in and community plugins allows you to easily integrate and extend your setup to fulfill your requirements.
 
-How to use?
-Pre-requisites:
+### How to use?
+##### Pre-requisites:
 
 Node.js
 VSCode
 
-Steps:
+##### Steps:
 
 Clone this project.
 Open the project in VSCode.
@@ -24,5 +24,5 @@ Open the terminal in VSCode.
 Execute npm install to install the node modules.
 Execute npm run wdio to run the tests.
 
-References
+###### References
 WebDriverIO Official Documentation
