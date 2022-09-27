@@ -9,16 +9,16 @@ Axios is a promise-based HTTP Client for node.js and the browser. It is isomorph
 ### How to use?
 #### Pre-requisites:
 
--Node.js
--VSCode
+- Node.js
+- VSCode
 
 #### Steps:
 
-1. Clone this project.
-2. Open the project in VSCode.
-3. Open the terminal in VSCode.
-4. Execute `npm install` to install the node modules.
-5. Execute `npm run wdio` to run the tests.
+1.Clone this project.
+2.Open the project in VSCode.
+3.Open the terminal in VSCode.
+4.Execute `npm install` to install the node modules.
+5.Execute `npm run wdio` to run the tests.
 
 #### References
 [WebDriverIO Official Documentation](https://webdriver.io/)
