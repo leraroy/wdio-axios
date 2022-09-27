@@ -17,7 +17,7 @@ VSCode
 Clone this project.
 Open the project in VSCode.
 Open the terminal in VSCode.
-Execute npm install to install the node modules.
+Execute ... npm install ... to install the node modules.
 Execute npm run wdio to run the tests.
 
 #### References
